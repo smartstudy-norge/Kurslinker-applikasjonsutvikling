@@ -15,7 +15,6 @@ Nyttige linker for kurset i applikasjonsutvikling.
 - [Introduction to HTML](https://scrimba.com/g/ghtml)
 
 * [HTML Tag list](https://www.w3schools.com/tags/default.asp)
-*
 
 ## CSS
 
