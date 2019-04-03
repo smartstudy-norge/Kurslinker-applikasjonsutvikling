@@ -4,6 +4,11 @@ Nyttige linker for kurset i applikasjonsutvikling.
 
 Legg gjerne inn flere!
 
+## SmartStudy ressurser  
+
+- [Basic HTML File Structure](https://github.com/smartstudy-norge/Basic-HTML-File-Structure)
+- [HTML / CSS filer brukt i undervisningen](https://github.com/smartstudy-norge/HTML-CSS-example-files)
+
 ## Nettsteder med gratis ressurser
 
 - [w3schools.com](https://www.w3schools.com/)
@@ -49,3 +54,16 @@ Legg gjerne inn flere!
 - [jQuery Tutorial](https://www.w3schools.com/jquery/)
 - [Manipulate CSS with jQuery](https://www.quackit.com/jquery/tutorial/jquery_css_manipulation.cfm)
 - [Learn to code Advanced HTML & CSS - jQuery section](https://learn.shayhowe.com/advanced-html-css/jquery/)
+
+## Git
+
+- [Git documentation](https://git-scm.com/docs/gittutorial)
+- [Atlassian Git tutorials](https://www.atlassian.com/git/tutorials)
+- [Git & Github crash course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (video)
+- [Git tutorial for absolutely everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+
+### Visuelle Git-klienter
+
+- [SourceTree](https://www.sourcetreeapp.com/) (Krever gratis konto hos Atlassian)
+- [Github Desktop](https://desktop.github.com/)
+
