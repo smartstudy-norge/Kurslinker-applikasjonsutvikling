@@ -60,7 +60,7 @@ Legg gjerne inn flere!
 - [Git documentation](https://git-scm.com/docs/gittutorial)
 - [Atlassian Git tutorials](https://www.atlassian.com/git/tutorials)
 - [Git & Github crash course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (video)
-- [Git tutorial for absolutely everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+- [Tutorial - Git for absolutely everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
 ### Visuelle Git-klienter
 
