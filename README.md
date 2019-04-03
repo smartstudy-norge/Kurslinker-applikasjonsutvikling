@@ -15,6 +15,8 @@ Legg gjerne inn flere!
 
 - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
 - [Introduction to HTML](https://scrimba.com/g/ghtml)
+- [Learn to code HTML & CSS](https://learn.shayhowe.com/html-css/)
+- [Learn to code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 
 * [HTML Tag list](https://www.w3schools.com/tags/default.asp)
 
@@ -46,3 +48,4 @@ Legg gjerne inn flere!
 - [Learn modern JavaScript](https://scrimba.com/g/ges6)
 - [jQuery Tutorial](https://www.w3schools.com/jquery/)
 - [Manipulate CSS with jQuery](https://www.quackit.com/jquery/tutorial/jquery_css_manipulation.cfm)
+- [Learn to code Advanced HTML & CSS - jQuery section](https://learn.shayhowe.com/advanced-html-css/jquery/)
