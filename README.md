@@ -55,6 +55,9 @@ Legg gjerne inn flere!
 - [Manipulate CSS with jQuery](https://www.quackit.com/jquery/tutorial/jquery_css_manipulation.cfm)
 - [Learn to code Advanced HTML & CSS - jQuery section](https://learn.shayhowe.com/advanced-html-css/jquery/)
 
+## JSON
+- [Myjson.com](http://myjson.com) - Side for å enkelt lage en JSON-testfil som kan lastes ned i applikasjonen din.
+
 ## Git
 
 - [Git documentation](https://git-scm.com/docs/gittutorial)
