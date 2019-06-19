@@ -58,6 +58,12 @@ Legg gjerne inn flere!
 ## JSON
 - [Myjson.com](http://myjson.com) - Side for å enkelt lage en JSON-testfil som kan lastes ned i applikasjonen din.
 
+## VueJS
+- [vuejs.org](https://vuejs.org/)
+- [Vue CLI](https://cli.vuejs.org/)
+- [Vue DevTools](https://github.com/vuejs/vue-devtools)
+- [Style Guide](https://vuejs.org/v2/style-guide/)
+
 ## Git
 
 - [Git documentation](https://git-scm.com/docs/gittutorial)
