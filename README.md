@@ -45,6 +45,7 @@ Legg gjerne inn flere!
 * [object-fit](https://css-tricks.com/almanac/properties/o/object-fit/) - Hvordan skalere bilder på siden
 * [Websafe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
+* [Realizing common layouts using CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)
 
 ## JavaScript
 
